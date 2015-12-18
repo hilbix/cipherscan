@@ -1,0 +1,3 @@
+[submodule "openssl-src"]
+	path = openssl-src
+	url = https://github.com/PeterMosmans/openssl.git
